@@ -13,6 +13,7 @@
     <module>api-gateway</module>
     <module>eureca_client-2</module>
     <module>eureca_client-1</module>
+    <module>eureca_client-3</module>
   </modules>
 
 

@@ -11,7 +11,11 @@
         <module name="eureka_server" />
         <module name="eureca_client-1" />
         <module name="eureca_client-2" />
+        <module name="eureca_client-3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka_client-3" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
