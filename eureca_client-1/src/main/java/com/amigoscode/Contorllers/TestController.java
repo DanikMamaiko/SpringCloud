@@ -8,8 +8,8 @@ public class TestController {
 
     @GetMapping("/test1")
     public String test(){
-        return "Test 1: Successful launch";
-        //return "/eclient2/test2";
+        //return "Test 1: Successful launch";
+        return "/eclient2/test2";
     }
 
 }
